@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jiya Sinha
-- 🌱 I’m currently learning Data Science and AI 
+- 🌱 I’m currently learning Data Science and AI.
+- 👩‍🔬 I aspire to be a data scientist and continue research and innovation.
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jiyasinha/)
 - 😄 Pronouns: she/her
 
