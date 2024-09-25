@@ -1,8 +1,13 @@
-- 👋 Hi, I’m Jiya Sinha
-- 🌱 I’m currently learning Data Science and AI.
-- 👩‍🔬 I aspire to be a data scientist and continue research and innovation.
-- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/jiyasinha/)
-- 😄 Pronouns: she/her
+👋 Hi, I’m Jiya Sinha
+
+📊 I’m currently learning Data Science and AI.
+
+👩‍🔬 I aspire to be a data scientist and continue research and innovation.
+
+ 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/)
+ 
+ 🎀 Pronouns: she/her
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhajiya&layout=compact&theme=dark&hide_border=true)
 
