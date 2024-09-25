@@ -8,8 +8,9 @@
  
  🎀 Pronouns: she/her
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhajiya&layout=compact&bg_color=FFD3E0,FFF9B0&title_color=FF6F61&text_color=333333&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhajiya&layout=compact&theme=dark&hide_border=true)
+
 
 <!---
 sinhajiya/sinhajiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
