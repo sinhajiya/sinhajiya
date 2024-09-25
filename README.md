@@ -8,8 +8,8 @@
  
  🎀 Pronouns: she/her
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sinhajiya&layout=compact&bg_color=FFD3E0,FFF9B0&title_color=FF6F61&text_color=333333&hide_border=true)
-
+![Top Langs](
+https://github-readme-stats.vercel.app/api/top-langs/?username=sinhajiya&layout=compact&bg_color=00000000&title_color=ff8da1&text_color=ffdd00&icon_color=00bfff&hide_border=true&custom_title=Most%20Used%20Languages)
 
 
 <!---
