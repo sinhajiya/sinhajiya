@@ -4,8 +4,6 @@
 
 🙋‍♀️ Pre-Final year student at IISER Bhopal.
 
-👩‍🔬 I aspire to be a data scientist and continue research and innovation.
-
  💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/).
 
 ![Top Langs](
