@@ -1,8 +1,10 @@
-👋 Hi, I’m Jiya Sinha.
+👋 Hi, I’m Jiya Sinha
 
-📊 I’m currently learning Data Science and AI.
+🙋‍♀️ Fourth year student at IISER Bhopal.
 
-🙋‍♀️ Final year student at IISER Bhopal.
+📊 Currently focused on Data Science and Artificial Intelligence  
+
+🔬 Aspiring researcher working on machine learning and AI-related problems  
 
  💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/).
 
