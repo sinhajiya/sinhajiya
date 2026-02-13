@@ -6,7 +6,9 @@
 
 🔬 Aspiring researcher working on machine learning and AI-related problems  
 
- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/).
+💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/).
+
+🌐 [https://sinhajiya.github.io/](https://sinhajiya.github.io/)
 
 <!---
 sinhajiya/sinhajiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
