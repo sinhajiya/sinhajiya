@@ -8,6 +8,8 @@
 
 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/jiyasinha/).
 
+📧 Email id: jiya22@iiserb.ac.in 
+
 🌐 [https://sinhajiya.github.io/](https://sinhajiya.github.io/)
 
 <!---
